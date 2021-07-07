@@ -1,1 +1,1 @@
-This is the collection basic but important program in Java.
+This is the collection of basic but important program in Java.
